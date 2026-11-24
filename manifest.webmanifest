@@ -1,0 +1,30 @@
+{
+  "name": "BLOUNCER LEVEL FORGE — Sistem Pengembangan Diri",
+  "short_name": "BLOUNCER FORGE",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#09111f",
+  "theme_color": "#10213b",
+  "description": "Aplikasi pengembangan diri: keahlian, ilmu, proyek, misi, dan CV.",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
